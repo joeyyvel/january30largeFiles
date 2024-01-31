@@ -1,0 +1,18 @@
+.serviceOne {
+  text-align: center;
+  background: orange;
+  margin: 20px;
+}
+
+.serviceTwo {
+  text-align: right;
+  background-color: blueviolet;
+  padding: 20px;
+}
+
+.serviceThree {
+  text-align: start;
+  background: yellow;
+  top: 20px;
+  position: relative;
+}
